@@ -1,0 +1,7 @@
+{
+  "name": "snap-dock",
+  "version": "1.1.0",
+  "description": "A production-grade, zero-dependency engine for micro-element contextual docking and collision-aware layout alignment.",
+  "main": "snap.js",
+  "type": "module"
+}
